@@ -1,0 +1,6 @@
+[packages]
+pandas = ">=1.0.5"
+matplotlib = "*"
+
+[requires]
+python_version = "3.6.8"
