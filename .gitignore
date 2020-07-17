@@ -1,0 +1,12 @@
+venv/
+data/
+Pipfile.lock
+
+#Other Files
+
+crime/
+householdenergydata/
+housesales/
+incomeinequality/
+
+.DS_Store
